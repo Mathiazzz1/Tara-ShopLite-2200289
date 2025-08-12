@@ -1,0 +1,10 @@
+com\darwinruiz\shoplite\models\Product.class
+com\darwinruiz\shoplite\repositories\UserRepository.class
+com\darwinruiz\shoplite\controllers\AdminServlet.class
+com\darwinruiz\shoplite\filters\AuthFilter.class
+com\darwinruiz\shoplite\repositories\ProductRepository.class
+com\darwinruiz\shoplite\controllers\LoginServlet.class
+com\darwinruiz\shoplite\models\User.class
+com\darwinruiz\shoplite\controllers\LogoutServlet.class
+com\darwinruiz\shoplite\controllers\HomeServlet.class
+com\darwinruiz\shoplite\filters\AdminFilter.class
